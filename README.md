@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkateshvadla
 - 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning cloud functionality (AWS &AZURE)
+- 🌱 I’m currently learning Cloud Technologies (AWS &AZURE)
 - 📫 How to reach me venkatesh.v@enlume.com
 
 <!---
